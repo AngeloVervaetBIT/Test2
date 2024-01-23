@@ -1,0 +1,33 @@
+total 1591264
+lrwxrwxrwx. 1 guest guest         26 Sep 27 11:12 bash_readme -> /usr/share/doc/bash/README
+-rw-r--r--. 1 guest guest       4942 Dec 27 14:01 biodb2_dump.sql
+drwxr-x---. 1 guest guest        148 Oct 19  2021 BioGRID
+drwxr-xr-x. 1 guest guest         60 Jan 23 16:44 BIT04-Databases
+drwxr-xr-x. 1 guest guest        860 Jan  8 05:20 blastdb
+drwxr-xr-x. 1 guest guest         26 Jan  8 04:40 CGA-Powerpoints
+drwxr-xr-x. 1 guest guest          0 Sep 22 13:29 Desktop
+drwxr-xr-x. 1 guest guest          0 Nov  3 09:12 Documents
+drwxr-xr-x. 1 guest guest        166 Jan 22 06:01 Downloads
+drwxr-xr-x. 1 guest guest          6 Jan 22 06:07 Exam
+drwxr-xr-x. 1 guest guest        496 Nov  4 16:29 fastq
+-rw-r--r--. 1 guest guest       2815 Jan 22 06:19 FLC.clu
+-rw-r--r--. 1 guest guest       1901 Jan 22 06:10 FLC_multifasta.fasta
+drwxr-xr-x. 1 guest guest          6 Dec 29 15:26 High-througput-analysis
+drwxr-xr-x. 1 guest guest        118 Dec 25 09:44 inputdir
+drwxr-xr-x. 1 guest guest        388 Sep 27 10:48 logkeys-master
+drwxr-xr-x. 1 guest guest        284 Oct 18 08:57 miniconda3
+drwxr-xr-x. 1 guest guest          0 Sep 22 13:29 Music
+drwxr-xr-x. 1 guest guest        116 Oct 19 17:01 ncbi-blast-2.15.0+
+-rw-r--r--. 1 guest guest         12 Oct 15 17:41 password.txt
+-rw-r--r--. 1 guest guest 1629422829 Sep 12 08:36 Pfam-A.hmm
+drwxr-xr-x. 1 guest guest        100 Jan  8 06:12 phylogenetics
+drwxr-xr-x. 1 guest guest          0 Sep 22 13:29 Pictures
+drwxr-xr-x. 1 guest guest          0 Sep 22 13:29 Public
+drwxr-xr-x. 1 guest guest         88 Nov 21 11:40 RamplotR
+drwxr-xr-x. 1 guest guest        864 Nov  6 04:30 Scripts
+lrwxrwxrwx. 1 guest guest         24 Sep 27 04:51 Shared -> /media/sf_Shared_folder/
+drwxr-xr-x. 1 guest guest         18 Oct 31 11:04 StructuralBioinformatics
+drwxr-xr-x. 1 guest guest        428 Dec 18 09:11 taxonkit
+drwxr-xr-x. 1 guest guest          0 Sep 22 13:29 Templates
+drwxr-xr-x. 1 guest guest          0 Sep 22 13:29 Videos
+drwxr-xr-x. 1 guest guest        106 Nov 15 06:13 WebTechnologies
